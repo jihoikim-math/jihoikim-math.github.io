@@ -3,11 +3,15 @@ layout: default
 title: Jihoi Kim 김지회
 ---
 
-# Jihoi Kim 김지회
+# Jihoi Kim <span class="ko">– 김지회</span>
 
 <div class="intro" markdown="1">
 
-![Jihoi Kim](/assets/photo.jpg){: .photo}
+<figure class="photo">
+  <img src="/assets/photo.jpg" alt="Jihoi Kim">
+</figure>
+
+<hr>
 
 I am a mathematician. I recently received my PhD in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk), where I was advised by Pierre Raphaël.
 
