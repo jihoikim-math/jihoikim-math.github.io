@@ -20,3 +20,12 @@ ul { padding-left: 1.2rem; }
 li { margin-bottom: .55rem; }
 main > p > strong:only-child { display: inline-block; margin-top: 1.2rem; font-size: 1.1rem; }
 .caption { font-size: .8rem; color: var(--muted); margin-top: .3rem; }
+.intro { display: flow-root; }
+.photo {
+  float: left;
+  width: 200px;
+  margin: 0.3rem 1.5rem 1rem 0;
+}
+@media (max-width: 560px) {
+  .photo { float: none; width: 100%; max-width: 260px; margin: 0 0 1rem; }
+}
