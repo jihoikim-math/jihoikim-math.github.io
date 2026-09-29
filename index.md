@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Your Name
+title: Jihoi Kim
 ---
 
-# Your Name
+# Jihoi Kim
 
-![Your Name](/assets/photo.jpg)
+![Jihoi Kim](/assets/photo.jpg)
 {: .photo}
 
 *Photo credit (optional)*
