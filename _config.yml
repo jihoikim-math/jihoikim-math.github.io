@@ -1,6 +1,6 @@
-title: Your Name
+title: Jihoi Kim
 description: Mathematician
-url: "https://YOUR-GITHUB-ID.github.io"
+url: "https://jihoikim-math.github.io"
 baseurl: ""
 markdown: kramdown
 exclude: [README.md, Gemfile.lock, vendor]
