@@ -6,38 +6,39 @@ title: Jihoi Kim
 # Jihoi Kim
 
 ![Jihoi Kim](/assets/photo.jpg)
-{: .photo}
-
-
 
 ---
 
-I am a mathematician at [Your University](https://www.example.edu).
+I am a mathematician. I recently received my PhD in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk), where I was advised by Pierre Raphaël.
 
-Previously, I was at [Previous Institution](https://www.example.edu) and [Another Institution](https://www.example.edu).
-
-I was a graduate student at [PhD University](https://www.example.edu).
+I completed my BA and MA in Mathematics at the University of Cambridge.
 
 Here is my [Curriculum Vitae](/assets/CV.pdf).
 
+**Research Interests**
+
+Singularity formation and long-time dynamics in nonlinear PDEs, with a focus on the construction and stability of self-similar and blow-up profiles across dispersive and fluid models. Core techniques include spectral analysis of linearized operators, phase-portrait methods for profile construction, and vacuum-adapted energy methods; model problems include the semilinear wave equation and the compressible Euler equations with physical vacuum.
+
 **Publications**
 
-- [*Paper title one*](/assets/pdf/paper1.pdf), with [*Coauthor A*](https://example.com) and [*Coauthor B*](https://example.com).  
-  Journal Name **12** (2024), 100–150.
-- [*Paper title two*](/assets/pdf/paper2.pdf).  
-  Journal Name **10** (2022), 1–30.
+- [*On self-similar blow-up for the energy supercritical semilinear wave equation*](https://doi.org/10.5802/jep.282).<br>
+Journal de l'École polytechnique — Mathématiques.
 
 **Preprints**
 
-- [*Preprint title*](/assets/pdf/preprint1.pdf), with [*Coauthor C*](https://example.com).  
-  arXiv preprint.
-
-**Organizations**
-
-- (June 2026) [*Workshop Name*](https://example.com), with [*Organizer*](https://example.com),  
-  Institution.
+- [*On smooth self-similar solutions to the compressible Euler equations with physical vacuum*](https://arxiv.org/abs/2608.30443).<br>
+arXiv preprint.
+- *On the stability of blow up profiles in compressible Euler equation with physical vacuum*, with Mahir Hadzic.<br>
+Work in progress.
+- *On the C<sup>∞</sup> integral curve of a nonlinear ODE*, with Pierre Raphaël.<br>
+Preprint in preparation.
 
 **Talks**
 
-- (May 2026) *Department Colloquium*, University Name.
-- (March 2026) [*Conference Name*](https://example.com), City.
+- (2025) *On the regularity of self-similar profiles*, Nonlinear Waves and Hamiltonian PDEs, Courmayeur.
+- (2024) *On self-similar blow-up of the energy supercritical wave equation*, Online Seminars on PDEs and Harmonic Analysis, KAIST.
+
+**Teaching**
+
+- Example Class, Analysis of PDEs, Mathematical Tripos Part III, University of Cambridge.
+- Supervisions: Analysis and Topology; Asymptotic Methods, University of Cambridge.
