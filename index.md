@@ -3,17 +3,19 @@ layout: default
 title: Jihoi Kim
 ---
 
-# Jihoi Kim
+# Jihoi Kim 김지회
 
-![Jihoi Kim](/assets/photo.jpg)
+<div class="intro" markdown="1">
 
----
+![Jihoi Kim](/assets/photo.jpg){: .photo}
 
 I am a mathematician. I recently received my PhD in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk), where I was advised by Pierre Raphaël.
 
 I completed my BA and MA in Mathematics at the University of Cambridge.
 
 Here is my [Curriculum Vitae](/assets/CV.pdf).
+
+</div>
 
 **Research Interests**
 
