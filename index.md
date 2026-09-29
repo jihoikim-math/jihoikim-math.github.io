@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jihoi Kim
+title: Jihoi Kim 김지회
 ---
 
 # Jihoi Kim 김지회
@@ -12,6 +12,8 @@ title: Jihoi Kim
 I am a mathematician. I recently received my PhD in Mathematics from the [University of Cambridge](https://www.maths.cam.ac.uk), where I was advised by Pierre Raphaël.
 
 I completed my BA and MA in Mathematics at the University of Cambridge.
+
+Email: [rk614@cam.ac.uk](mailto:rk614@cam.ac.uk)
 
 Here is my [Curriculum Vitae](/assets/CV.pdf).
 
