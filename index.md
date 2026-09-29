@@ -8,8 +8,7 @@ title: Jihoi Kim
 ![Jihoi Kim](/assets/photo.jpg)
 {: .photo}
 
-*Photo credit (optional)*
-{: .caption}
+
 
 ---
 
